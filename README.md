@@ -10,7 +10,7 @@ _MM2021 Beihang Uni, Chinese Academy of Sciences_
 - performs cross-modal attention between visual relation features and linguistic relation features
 
 
-### 2.Language Conditioned Spatial Relation Reasoning for 3D Object Grounding
+### 2. Language Conditioned Spatial Relation Reasoning for 3D Object Grounding
 _Neurips2022 PSL Research University_
 - a spatial self-attention layer for relative distances and orientations between objects from 3D point clouds as input
 - 
