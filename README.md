@@ -13,4 +13,4 @@ _MM2021 Beihang Uni, Chinese Academy of Sciences_
 ### 2. Language Conditioned Spatial Relation Reasoning for 3D Object Grounding
 _Neurips2022 PSL Research University_
 - a spatial self-attention layer for relative distances and orientations between objects from 3D point clouds as input
-- 
+- teacher-student approach where teacher model is first trained using ground-truth object labels and then helps to train a student model using point cloud inputs
