@@ -8,3 +8,8 @@ _MM2021 Beihang Uni, Chinese Academy of Sciences_
 - devises an Entity-aware Attention (EA) module matching between object features and linguistic entity features via con-attention
 - and a Relaiton-aware Attention (RA) module to first extract visual relation features of object-object pairs via an asymmetric operator
 - performs cross-modal attention between visual relation features and linguistic relation features
+
+
+### 2.Language Conditioned Spatial Relation Reasoning for 3D Object Grounding
+_nips2022 PSL Research University_
+-
